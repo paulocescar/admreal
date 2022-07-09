@@ -8,7 +8,7 @@ use Illuminate\Notifications\Notifiable;
 use Laratrust\Traits\LaratrustUserTrait;
 use Illuminate\Database\Eloquent\SoftDeletes;
 
-class User extends Authenticatable
+class User_client extends Authenticatable
 {
     use LaratrustUserTrait;
     use Notifiable;
