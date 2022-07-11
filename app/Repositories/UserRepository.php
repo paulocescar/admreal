@@ -2,7 +2,7 @@
 
 namespace App\Repositories;
 
-use JasonGuru\LaravelMakeRepository\Repository\BaseRepository;
+// use JasonGuru\LaravelMakeRepository\Repository\BaseRepository;
 use App\Models\User;
 use Datatables;
 
