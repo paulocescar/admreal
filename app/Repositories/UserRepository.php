@@ -2,14 +2,14 @@
 
 namespace App\Repositories;
 
-use Src\JasonGuru\LaravelMakeRepository\Repository\BaseRepository;
+use JasonGuru\LaravelMakeRepository\Repository\BaseRepository;
 use App\Models\User;
 use Datatables;
 
 /**
  * Class UserRepository.
  */
-class UserRepository extends BaseRepository
+class UserRepository extends Src\JasonGuru\LaravelMakeRepository\Repository\BaseRepository
 {
     /**
      * @return string
