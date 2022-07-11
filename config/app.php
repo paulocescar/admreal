@@ -230,6 +230,7 @@ return [
         'View' => Illuminate\Support\Facades\View::class,
         'Datatables' => Yajra\DataTables\Facades\DataTables::class,
         'Laratrust'   => Laratrust\LaratrustFacade::class,
+        'AdminLTE' => Acacha\AdminLTETemplateLaravel\Facades\AdminLTE::class,
 
     ],
 
