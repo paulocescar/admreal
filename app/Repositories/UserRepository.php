@@ -9,7 +9,7 @@ use Datatables;
 /**
  * Class UserRepository.
  */
-class UserRepository extends Src\JasonGuru\LaravelMakeRepository\Repository\BaseRepository
+class UserRepository extends BaseRepository
 {
     /**
      * @return string
