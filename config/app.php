@@ -163,7 +163,6 @@ return [
         Illuminate\View\ViewServiceProvider::class,
         Yajra\DataTables\DataTablesServiceProvider::class,
         Laratrust\LaratrustServiceProvider::class,
-        JasonGuru\LaravelMakeRepository\Repository\BaseRepository::class
         
         /*
          * Package Service Providers...
